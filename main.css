@@ -1,0 +1,41 @@
+
+.menu {
+    float: right;
+}
+
+
+header {
+margin-left: 260px;
+margin-top: 70px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.kartlar {
+   text-align: center;
+    justify-items: center;
+    margin-top: 65px;
+}
+
+.card-header {
+    font-weight: 400;
+    font-size: 28px;
+}
+
+.bitish {
+    margin-top: 140px;
+    width: 1170px;
+    list-style: none;
+}
+
+.years {
+    font-size: 15px;
+    margin-left: -178px;
+    margin-top: 3px;
+}
